@@ -1,0 +1,109 @@
+.gallery img{ width: 100%;
+ }
+body{ background-color: white;
+    
+
+}
+a:hover{ color: darkorange;
+    text-decoration: none;
+    
+}
+
+h2{ color:black;
+      font-family: Copperplate Gothic ;
+      font-size: 30px;
+      font-weight: 800px;
+    text-decoration: underline;
+
+    
+    
+}
+
+h3{ color:black;
+      font-family: Copperplate Gothic;
+      font-size: 25px;
+      font-weight: 800px;  
+    
+}
+h4{ color: black;
+      font-family: Magneto;
+      font-size: 20px;
+      font-weight: 800px;
+    text-decoration: underline;
+}
+h5{ color:black;
+      font-family: Copperplate Gothic ;
+      font-size: 30px;
+      font-weight: 800px;
+    
+}
+p2{ color: black;
+    font-family: Magneto;
+      font-size: 30px;
+      font-weight: 800px;
+    text-decoration: underline;
+}
+
+
+p{    color: black;
+      font-family: Copperplate Gothic;
+      font-size: 16px;
+      font-weight: 800px;
+    
+    
+}
+#menu-bar{
+      width:100%;
+      height:40px;
+      background-color: darkorange;
+      padding-top: 12px;
+}
+
+#menu-bar a{
+      color:black;
+      font-family: Magneto;
+      font-size: 18px;
+      text-decoration:none;
+      font-weight: 800px;
+      
+      padding-left: 20px;
+      padding-right: 20px;
+}
+
+#menu-bar a:hover{
+       color: darkslategrey;
+}
+table {
+    border-collapse: collapse;
+    font-family : Copperplate Gothic;
+      font-size: 18px;
+    border-width   : 3px;
+      border-style   : solid;
+      border-color: black;
+    width: 1250px;
+    background-color: #ffffff;
+    color: black;
+}
+button{ background-color: darkorange;
+    width: 250px;
+      font-family : Magneto;  
+    color: black;
+    font-size: 20px;
+
+}
+#button a:hover{
+    color:darksalmon;
+}
+input [type=button],input[type=submit] { background-color: darkorange;
+    width: 250px;
+      font-family : Magneto;  
+    color: black;
+    font-size: 20px;
+
+}
+
+
+
+
+
+
